@@ -3,4 +3,4 @@ Description: Gaussian process regression package. It learns the corresponding di
 **note** There as quite a few paramters that can be changed if needed. They are specified in the three launch files: gp_disturb_main_x.launch, gp_disturb_main_y.launch, and gp_disturb_main_z.launch .
 
 Dependency
-[libgp](https://github.com/mblum/libgp/blob/master/COPYING): A Gaussian process regression library.
+[libgp](https://github.com/mblum/libgp): A Gaussian process regression library.
