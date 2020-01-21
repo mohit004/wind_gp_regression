@@ -1,0 +1,20 @@
+# Thu Oct 10 15:57:57 2019
+
+# input dimensionality
+10
+
+# covariance function
+CovSum(CovSEard, CovNoise)
+
+# log-hyperparameter
+0 0 0 0 0 0 0 0 0 0 0 0 
+
+# mean for input values
+0 0 0 0 0 0 0 0 0 0 
+# std_dev for input values
+1 1 1 1 1 1 1 1 1 1 
+
+# mean and std_dev for target values
+0 1
+
+# data (target value in first column)
