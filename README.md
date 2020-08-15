@@ -5,7 +5,7 @@ Gaussian process (GP) regression package. It learns the corresponding disturbanc
 Dependency
 [libgp](https://github.com/mblum/libgp): A Gaussian process regression library.
 
-This GP regression package is utilized in the following work. Please don't forget to cite it if you use these code in your work.
+This GP regression package is utilized in the following work. Please don't forget to consider citing it if you use these code in your work.
 
 **Plain text:**
 ```
