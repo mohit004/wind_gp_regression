@@ -5,7 +5,7 @@ ROS package for Gaussian process (GP)-based regression of the wind disturbance. 
 Dependency
 [libgp](https://github.com/mblum/libgp): A Gaussian process regression library.
 
-This GP regression package is utilized in the following work. Please don't forget to consider citing it if you use these code in your work.
+This GP regression package is utilized in the following work. Please don't forget to consider citing it if you use these codes in your work.
 
 **Plain text:**
 ```
