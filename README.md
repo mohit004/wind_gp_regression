@@ -3,6 +3,7 @@ ROS package for Gaussian process (GP)-based regression of the wind disturbance. 
 **Note:** there are quite a few paramters that can be changed if needed. They are specified in the three launch files: gp_disturb_main_x.launch, gp_disturb_main_y.launch, and gp_disturb_main_z.launch .
 
 **Dependency**
+
 [libgp](https://github.com/mblum/libgp): A Gaussian process regression library.
 
 
